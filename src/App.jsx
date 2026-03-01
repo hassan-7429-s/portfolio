@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import Hero from './sections/hero';
 import { Skills } from './sections/skills';
 import { Projects } from './sections/projects';
@@ -20,7 +20,6 @@ function App() {
         <Contact />
       </main>
     </div>
-=======
 import React from 'react';
 import { Layout } from './components/layout/layout';
 import { Hero } from './components/sections/Hero';
@@ -34,7 +33,7 @@ function App() {
       <About />
       <Projects />
     </Layout>
->>>>>>> 11e47f4bf0e5ef48ff0786190f95e1efafc27cec
+
   );
 }
 

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @import "tailwindcss";
 
 /* Your custom styles (if any) */
@@ -10,7 +10,7 @@ body {
 
 .font-serif {
   font-family: 'Playfair Display', serif;
-=======
+}
 @impoort 'tailwindcss';
 @layer base {
   html {
@@ -69,5 +69,4 @@ body {
 
 .animate-fade-in {
   animation: fadeIn 1s ease-in-out;
->>>>>>> 11e47f4bf0e5ef48ff0786190f95e1efafc27cec
 }
